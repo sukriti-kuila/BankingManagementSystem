@@ -12,7 +12,7 @@ The Banking Management System is a Java-based application that allows users to i
 ## Setup
 
 1. Ensure that the Oracle JDBC driver is available in the project's classpath.
-2. Update the database connection URL, user ID, and password in the program (`app.java`) to match your Oracle database configuration.
+2. Update the database connection URL, user ID, and password in the program (`Myjdbcproj.java`) to match your Oracle database configuration.
 
 ## Features
 
@@ -28,7 +28,7 @@ The Banking Management System is a Java-based application that allows users to i
 
 ## Usage
 
-1. Compile the `app.java` file.
+1. Compile the `Myjdbcproj.java` file.
 2. Run the compiled file.
 3. Choose an option from the displayed menu by entering the corresponding number.
 4. Follow the on-screen prompts to provide necessary inputs for each operation.
